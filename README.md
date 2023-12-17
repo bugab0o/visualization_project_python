@@ -1,6 +1,6 @@
 ## Задание по визуализации данных об оттоке клиентов некоторого банка
 
-### Сам [датасет](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
+### Нам представлен [датасет](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers)
 
 #### Столбцы таблицы:
  - `RowNumber` — номер строки таблицы (это лишняя информация, поэтому можете сразу от неё избавиться)
